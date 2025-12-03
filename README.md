@@ -59,9 +59,9 @@ Mostrar o total arrecado com todas as doações
 .
 
 
-Gera arquivo:
+Gerar arquivo:
 
-prdoutos-salva as infomações dele
+produtos-salva as infomações dele
 
 doadores-salva as infomações deles
 
