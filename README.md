@@ -5,6 +5,8 @@ IMPORTANTE: abaixe o arquivo de documentação, pois consegue acessar os links q
 
 Para ver coisas usada no projeto(ex:flugrama e ect): https://drive.google.com/drive/folders/1oABKdPoHTflh-epYoZNzIKQ9lHIgRnNd
 
+link para a apresentação em video: https://youtu.be/qeBshGcT9L4
+
 .
 
 Sistema tem 2 principais funçõe e 2 subfunções:
