@@ -1,10 +1,15 @@
 # Projeto_de_extenção
 
-Sistema tem 2 principais funçõe e 2 subfunções:\n
+Sistema tem 2 principais funçõe e 2 subfunções:
+
 1-sistema de caixa
+
 2-sistema de doação
+
 3-regitro de venda
+
 4-registro de doação
+
 
 
 Sistema De Caixa:
