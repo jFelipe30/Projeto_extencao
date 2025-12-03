@@ -1,4 +1,9 @@
 # Projeto_de_extenção
+.
+
+IMPORTANTE: abaixe o arquivo de documentação, pois consegue acessar os links que tem nele, que leva a coisas importantes
+
+.
 
 Sistema tem 2 principais funçõe e 2 subfunções:
 
