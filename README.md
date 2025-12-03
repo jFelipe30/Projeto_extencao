@@ -33,7 +33,7 @@ Sistema De Doação:
 
 .
 
-Registro De venda:
+Registro De Vendas:
 
 Mostra todos os produtos registrados
 
@@ -42,7 +42,7 @@ Quanto o caixa arrecadou com o total de vendas
 
 .
 
-Registro De doação:
+Registro De Doação:
 
 Mostra todas as doações feitas
 
@@ -51,7 +51,7 @@ Mostrar o total arrecado com todas as doações
 
 
 
-
+.
 
 
 Gera arquivo:
