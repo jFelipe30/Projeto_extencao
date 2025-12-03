@@ -3,6 +3,8 @@
 
 IMPORTANTE: abaixe o arquivo de documentação, pois consegue acessar os links que tem nele, que leva a coisas importantes
 
+Para ver coisas usada no projeto(ex:flugrama e ect): https://drive.google.com/drive/folders/1oABKdPoHTflh-epYoZNzIKQ9lHIgRnNd
+
 .
 
 Sistema tem 2 principais funçõe e 2 subfunções:
