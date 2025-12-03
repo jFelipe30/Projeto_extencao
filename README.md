@@ -11,7 +11,7 @@ Sistema tem 2 principais funçõe e 2 subfunções:
 4-registro de doação
 
 
-
+.
 
 
 Sistema De Caixa:
@@ -21,7 +21,7 @@ Sistema De Caixa:
 2-funcionamento de um caixa normal
 
 
-
+.
 
 
 Sistema De Doação:
@@ -31,7 +31,7 @@ Sistema De Doação:
 2-buscar registro de doação
 
 
-
+.
 
 Registro De venda:
 
@@ -40,7 +40,7 @@ Mostra todos os produtos registrados
 Quanto o caixa arrecadou com o total de vendas
 
 
-
+.
 
 Registro De doação:
 
